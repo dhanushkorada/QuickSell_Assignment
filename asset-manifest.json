@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/REPOSITORY_NAME/static/css/main.c7dcfb02.css",
-    "main.js": "/REPOSITORY_NAME/static/js/main.13fe71a0.js",
-    "index.html": "/REPOSITORY_NAME/index.html",
-    "main.c7dcfb02.css.map": "/REPOSITORY_NAME/static/css/main.c7dcfb02.css.map",
-    "main.13fe71a0.js.map": "/REPOSITORY_NAME/static/js/main.13fe71a0.js.map"
+    "main.css": "/QuickSell_Assignment/static/css/main.c7dcfb02.css",
+    "main.js": "/QuickSell_Assignment/static/js/main.13fe71a0.js",
+    "index.html": "/QuickSell_Assignment/index.html",
+    "main.c7dcfb02.css.map": "/QuickSell_Assignment/static/css/main.c7dcfb02.css.map",
+    "main.13fe71a0.js.map": "/QuickSell_Assignment/static/js/main.13fe71a0.js.map"
   },
   "entrypoints": [
     "static/css/main.c7dcfb02.css",
