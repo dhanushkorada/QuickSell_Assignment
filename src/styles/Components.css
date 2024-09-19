@@ -1,0 +1,7 @@
+/* src/components/Column.css */
+.kanban-column {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	margin: 0 8px;
+}

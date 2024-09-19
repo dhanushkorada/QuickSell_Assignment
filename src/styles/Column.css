@@ -1,0 +1,38 @@
+.kanban-column {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	width: 280px;
+}
+
+.header-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 16px;
+}
+
+.user-avatar {
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+	background-color: #e5e7eb;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+}
+
+.status-title {
+	display: flex;
+	align-items: center;
+}
+
+.status-title h3 {
+	margin-left: 8px;
+}
+
+.right-icons {
+	display: flex;
+	gap: 8px;
+}

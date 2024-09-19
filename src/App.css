@@ -1,0 +1,12 @@
+.App {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+.kanban-board {
+	background-color: #f5f4f9;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}

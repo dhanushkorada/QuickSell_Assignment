@@ -1,0 +1,58 @@
+.ticket-card {
+	background-color: white;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding: 16px;
+	height: 135px;
+	width: 280px;
+	font-family: Arial, sans-serif;
+	position: relative;
+	font-size: 12px;
+}
+
+.card-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 12px;
+}
+
+.card-id {
+	color: #9b9b9b;
+}
+.user-avatar {
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+	background-color: #e5e7eb;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+}
+
+.card-title {
+	color: black;
+	text-align: left;
+	font-size: small;
+}
+
+.card-tag {
+	border: 2px black;
+}
+
+.card-tag .tag {
+	color: #333;
+	padding: 4px 8px;
+	border-radius: 4px;
+	display: inline-block;
+	margin-right: 6px;
+}
+
+.card-status {
+	display: flex;
+	flex-direction: row;
+	margin-top: 12px;
+	color: #555;
+	align-items: center;
+}
